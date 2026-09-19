@@ -1,0 +1,12 @@
+{
+  "publication_id": "terra_reel_004",
+  "titulo": "¿Necesitas dibujar perfecto?",
+  "caption": "¿De verdad necesitas dibujar perfecto para comenzar?\n\nMuchos principiantes se frenan porque creen que el dibujo tiene que ser perfecto antes de aprender el proceso. El progreso llega con práctica, criterio y una ruta clara: boceto, stencil, materiales, seguridad y técnica.\n\nEn Terra Tattoo puedes recibir orientación presencial gratuita en Hialeah todos los martes, de 6:00 a 10:00 p. m.\n\nComenta GRATIS y te enviamos la información para asistir.",
+  "status": "SUBIDO_GITHUB",
+  "version": "1",
+  "sha256": "af998d201848fca61b9937e878552bb242565e9def9c64c01e2b1850d63dc97d",
+  "idempotency_key": "terra_reel_004:1:af998d201848fca61b9937e878552bb242565e9def9c64c01e2b1850d63dc97d",
+  "object_storage_only_mp4": true,
+  "mp4_https_url": "https://s3api.chianchat.com/terra-reels-public/terra_reel_004/version-1/terra_reel_004.mp4",
+  "fecha_subida": "2026-09-19T18:53:33.567Z"
+}
