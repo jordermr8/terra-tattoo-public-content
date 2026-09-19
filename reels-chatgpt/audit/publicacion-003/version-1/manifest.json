@@ -1,0 +1,12 @@
+{
+  "publication_id": "terra_reel_003",
+  "titulo": "Cien tutoriales y ninguna ruta",
+  "caption": "Más tutoriales no siempre significan más claridad.\n\nGuardar videos, consejos y opiniones contradictorias puede hacer que un principiante termine con más dudas que antes. La diferencia está en tener una ruta: información útil, materiales adecuados, seguridad y una guía clara para avanzar.\n\nEn Terra Tattoo ofrecemos orientación presencial gratuita en Hialeah todos los martes, de 6:00 a 10:00 p. m.\n\nComenta GRATIS y te enviamos la información para asistir.",
+  "status": "SUBIDO_GITHUB",
+  "version": "1",
+  "sha256": "cd839964b92b5d4f4849e8365fe15bb1f41056598b46dcb3cfc11dff7be81fec",
+  "idempotency_key": "terra_reel_003:1:cd839964b92b5d4f4849e8365fe15bb1f41056598b46dcb3cfc11dff7be81fec",
+  "object_storage_only_mp4": true,
+  "mp4_https_url": "https://s3api.chianchat.com/terra-reels-public/terra_reel_003/version-1/terra_reel_003.mp4",
+  "fecha_subida": "2026-09-19T18:25:26.282Z"
+}
