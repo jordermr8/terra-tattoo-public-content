@@ -1,0 +1,12 @@
+{
+  "publication_id": "terra_reel_001",
+  "titulo": "No compres tu primera máquina todavía",
+  "caption": "¿Estás pensando en comprar tu primera máquina de tatuar? 👀\n\nAntes de gastar dinero, entiende qué hace cada herramienta y por qué una buena decisión al principio puede evitarte confusión después.\n\nEn Terra Tattoo puedes recibir orientación presencial gratuita en Hialeah para comenzar con más criterio, conocer mejor el equipo y aclarar tus dudas como principiante.\n\n📍 Hialeah, Florida\n🗓️ Martes\n🕕 6:00–10:00 p. m.\n\nComenta GRATIS y te enviamos la información para asistir.\n",
+  "status": "SUBIDO_GITHUB",
+  "version": "2",
+  "sha256": "f87fd0e4120122e75039a89e2b1cf3092757dfb39284b81c6ebc9a8929d1b699",
+  "idempotency_key": "terra_reel_001:2:f87fd0e4120122e75039a89e2b1cf3092757dfb39284b81c6ebc9a8929d1b699",
+  "object_storage_only_mp4": true,
+  "mp4_https_url": "https://s3api.chianchat.com/terra-reels-public/terra_reel_001/version-2/terra_reel_001.mp4",
+  "fecha_subida": "2026-09-19T18:08:44.400Z"
+}
