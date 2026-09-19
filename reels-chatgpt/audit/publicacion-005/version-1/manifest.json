@@ -1,0 +1,12 @@
+{
+  "publication_id": "terra_reel_005",
+  "titulo": "El tatuaje no comienza en la piel",
+  "caption": "El tatuaje no comienza en la piel.\n\nMuchos principiantes quieren saltar directo a la práctica, pero antes hace falta entender el proceso: información, materiales adecuados, seguridad y una ruta clara.\n\nEn Terra Tattoo puedes recibir orientación presencial gratuita en Hialeah todos los martes, de 6:00 a 10:00 p. m.\n\nComenta GRATIS y te enviamos la información para asistir.",
+  "status": "SUBIDO_GITHUB",
+  "version": "1",
+  "sha256": "59fc24a10b17343a784dda5a2aa9b313f847837d0404bf2dc3d5de14c97f1ab6",
+  "idempotency_key": "terra_reel_005:1:59fc24a10b17343a784dda5a2aa9b313f847837d0404bf2dc3d5de14c97f1ab6",
+  "object_storage_only_mp4": true,
+  "mp4_https_url": "https://s3api.chianchat.com/terra-reels-public/terra_reel_005/version-1/terra_reel_005.mp4",
+  "fecha_subida": "2026-09-19T21:07:00.004Z"
+}
