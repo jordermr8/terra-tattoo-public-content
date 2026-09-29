@@ -1,0 +1,12 @@
+{
+  "publication_id": "terra_reel_018",
+  "titulo": "Qué aprenderás en cuatro horas",
+  "caption": "¿Qué aprenderás en cuatro horas?\n\nCuatro horas no te hacen tatuador, pero sí pueden darte una ruta clara para empezar con criterio.\n\nMuchos principiantes se frenan por expectativas irreales o por querer correr antes de entender lo básico. Primero necesitas dirección, fundamentos, materiales y una lógica de trabajo correcta.\n\nEn la clase introductoria gratuita de Terra Tattoo en Hialeah conocerás una ruta real para empezar mejor.\n\nComenta GRATIS y te enviamos la información para asistir.",
+  "status": "SUBIDO_GITHUB",
+  "version": "1",
+  "sha256": "6555ffd1c487a7d1c2bea4e0c1afac1d160ac638e4d172e9ed732363dc9bc645",
+  "idempotency_key": "terra_reel_018:1:6555ffd1c487a7d1c2bea4e0c1afac1d160ac638e4d172e9ed732363dc9bc645",
+  "object_storage_only_mp4": true,
+  "mp4_https_url": "https://s3api.chianchat.com/terra-reels-public/terra_reel_018/version-1/terra_reel_018.mp4",
+  "fecha_subida": "2026-09-29T20:54:18.235Z"
+}
