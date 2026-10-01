@@ -1,0 +1,12 @@
+{
+  "publication_id": "terra_reel_021",
+  "titulo": "Por qué aprender presencialmente",
+  "caption": "Hay preguntas que un video grabado nunca puede escuchar.\n\nMuchos principiantes se quedan frenados porque ven tutoriales, pero no pueden preguntar sus dudas reales: qué aguja usar, a qué profundidad trabajar, cómo evitar errores o por dónde empezar.\n\nAprender presencialmente te da algo que internet no siempre puede darte: respuesta inmediata, contexto y orientación clara.\n\nEn Terra Tattoo puedes recibir orientación presencial gratuita todos los martes en Hialeah.\n\nComenta GRATIS y te enviamos la información para asistir.",
+  "status": "SUBIDO_GITHUB",
+  "version": "1",
+  "sha256": "408538f607c4cd2149bb35e54cc000e4c27eb9155fccb49aad1ec349cdb83325",
+  "idempotency_key": "terra_reel_021:1:408538f607c4cd2149bb35e54cc000e4c27eb9155fccb49aad1ec349cdb83325",
+  "object_storage_only_mp4": true,
+  "mp4_https_url": "https://s3api.chianchat.com/terra-reels-public/terra_reel_021/version-1/terra_reel_021.mp4",
+  "fecha_subida": "2026-10-01T18:53:55.022Z"
+}
